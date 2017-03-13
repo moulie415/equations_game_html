@@ -1,10 +1,10 @@
 d:assets:0:application/unknown
 i:badlogic.jpg:68465:image/jpeg
 d:buttons:0:application/unknown
-t:buttons/button.pack:301:application/unknown
+t:buttons/button.pack:281:application/unknown
 i:buttons/button.pack.png:45210:image/png
 d:clean-crispy:0:application/unknown
-t:clean-crispy/Comfortaa Font License.txt:4491:text/plain
+t:clean-crispy/Comfortaa Font License.txt:4397:text/plain
 i:clean-crispy/preview.png:49779:image/png
 d:clean-crispy/raw:0:application/unknown
 i:clean-crispy/raw/button-arcade-pressed.9.png:5106:image/png
@@ -34,7 +34,7 @@ i:clean-crispy/raw/checkbox-pressed.png:443:image/png
 i:clean-crispy/raw/checkbox.png:420:image/png
 i:clean-crispy/raw/cursor.9.png:90:image/png
 i:clean-crispy/raw/cursor.png:105:image/png
-t:clean-crispy/raw/font-export.fnt:9725:application/unknown
+t:clean-crispy/raw/font-export.fnt:9621:application/unknown
 i:clean-crispy/raw/font-export.png:7744:image/png
 i:clean-crispy/raw/font.png:13159:image/png
 i:clean-crispy/raw/list.9.png:537:image/png
@@ -103,17 +103,17 @@ i:clean-crispy/raw/window-main.9.png:288:image/png
 i:clean-crispy/raw/window-main.png:186:image/png
 i:clean-crispy/raw/window.9.png:881:image/png
 i:clean-crispy/raw/window.png:965:image/png
-b:clean-crispy/README.md:1017:application/unknown
+b:clean-crispy/README.md:989:application/unknown
 d:clean-crispy/skin:0:application/unknown
-t:clean-crispy/skin/clean-crispy-ui.atlas:8432:application/unknown
-t:clean-crispy/skin/clean-crispy-ui.json:9910:application/unknown
+t:clean-crispy/skin/clean-crispy-ui.atlas:7920:application/unknown
+t:clean-crispy/skin/clean-crispy-ui.json:9413:application/unknown
 i:clean-crispy/skin/clean-crispy-ui.png:60000:image/png
-t:clean-crispy/skin/font-export.fnt:9725:application/unknown
-t:default.fnt:11530:application/unknown
+t:clean-crispy/skin/font-export.fnt:9621:application/unknown
+t:default.fnt:11430:application/unknown
 i:default.png:26179:image/png
 b:digital-7.ttf:34360:application/unknown
-t:digital.json:3129:application/unknown
-t:font.fnt:11108:application/unknown
+t:digital.json:3067:application/unknown
+t:font.fnt:11007:application/unknown
 i:font.png:31801:image/png
 d:images:0:application/unknown
 i:images/doritos-nacho-cheese.png:204290:image/png
@@ -125,8 +125,7 @@ i:images/splash2.png:653651:image/png
 i:images/splash3.png:641876:image/png
 i:images/splash4.png:260607:image/png
 i:images/tutorial.png:30657:image/png
-b:player.dat:244:application/unknown
-t:small.fnt:11109:application/unknown
+t:small.fnt:11008:application/unknown
 i:small.png:16093:image/png
 d:sounds:0:application/unknown
 a:sounds/2SED4AIRHORN.mp3:319319:application/unknown
@@ -144,8 +143,8 @@ a:sounds/Oh Baby A Triple.mp3:80247:application/unknown
 a:sounds/smoke_weed.mp3:43884:application/unknown
 a:sounds/SPOOKY.mp3:124550:application/unknown
 a:sounds/tactical_nuke.mp3:154226:application/unknown
-t:uiskin.atlas:3122:application/unknown
-t:uiskin.json:3246:application/unknown
+t:uiskin.atlas:2923:application/unknown
+t:uiskin.json:3181:application/unknown
 i:uiskin.png:28299:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
