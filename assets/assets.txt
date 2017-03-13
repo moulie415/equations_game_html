@@ -3,6 +3,8 @@ i:badlogic.jpg:68465:image/jpeg
 d:buttons:0:application/unknown
 t:buttons/button.pack:281:application/unknown
 i:buttons/button.pack.png:45210:image/png
+t:buttons/skip.atlas:171:application/unknown
+i:buttons/skip.png:20413:image/png
 d:clean-crispy:0:application/unknown
 t:clean-crispy/Comfortaa Font License.txt:4397:text/plain
 i:clean-crispy/preview.png:49779:image/png
