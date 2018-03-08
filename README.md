@@ -3,4 +3,4 @@ HTML distribution of joke version of equations dragger maths game made using lib
 
 Can be played here:
 
-http://dev-henry-moule.pantheonsite.io/equations_quickscoper_420_html/
+http://dev-henry-moule.pantheonsite.io/equation_quickscoper_420/
